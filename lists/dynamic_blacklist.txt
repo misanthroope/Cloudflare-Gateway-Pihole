@@ -170,3 +170,4 @@ widgets.pinterest.com
 business.samsungusa.com
 books-analytics-events.apple.com
 weather-analytics-events.apple.com
+metrics.icloud.com
